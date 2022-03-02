@@ -9,7 +9,8 @@
 -->
   <platforms>
     <platform>
-      <name>Steam (TBD)</name>
+      <name>Steam - Summer 2022</name>
+      <link>https://store.steampowered.com/app/1879680/Candle_Knight/</link>
     </platform>
     <platform>
       <name>Consoles (TBD)</name>
@@ -52,24 +53,20 @@
     <feature>Every death counts, make your way back to your corpse to recover your equipment</feature>
   </features>
 
-<!--
   <trailers>
     <trailer>
-      <name>Showcase 2022</name>
+      <name>Candle Knight - Reveal Trailer</name>
       <youtube>
-         Nk-zONAypKc
+         JqQ6BPLDldA
       </youtube>
     </trailer>
   </trailers>
--->
-  <!-- You can set your widgets here (optional): 
+
   <widgets>
     <steam>
-      Steam ID
-      e.g. 424242
+      1879680
     </steam>
   </widgets>
--->
   <awards>
     <award>
       <description>Winner of an Epic MegaGrant, December 2021</description>
