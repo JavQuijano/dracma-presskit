@@ -9,7 +9,7 @@
 -->
   <platforms>
     <platform>
-      <name>Steam - Summer 2022</name>
+      <name>Steam - May 31st, 2023</name>
       <link>https://store.steampowered.com/app/1879680/Candle_Knight/</link>
     </platform>
     <platform>
@@ -55,6 +55,18 @@
 
   <trailers>
     <trailer>
+      <name>Candle Knight - Release Trailer</name>
+      <youtube>
+         XvAJXp8UXXE
+      </youtube>
+    </trailer>
+    <trailer>
+      <name>Candle Knight - TGS Trailer</name>
+      <youtube>
+         g5q7DBTWags
+      </youtube>
+    </trailer>
+    <trailer>
       <name>Candle Knight - Reveal Trailer</name>
       <youtube>
          JqQ6BPLDldA
@@ -71,6 +83,18 @@
     <award>
       <description>Winner of an Epic MegaGrant, December 2021</description>
       <info>https://www.dracmastudios.com/projects-showcase/epicmegagrants</info>
+    </award>
+    <award>
+      <description>Selected to showcase in TOKYO GAME SHOW 2022 as an Indie Selected Exhibit</description>
+      <info>https://www.dracmastudios.com/projects-showcase/tokyo-game-show-2022</info>
+    </award>
+    <award>
+      <description>Official Selection for Latin American Games Showcase 2023</description>
+      <info>https://twitter.com/DracmaStudios/status/1631746767048900618</info>
+    </award>
+    <award>
+      <description>Selected as a Game Devs of Color Expo title</description>
+      <info>https://twitter.com/DracmaStudios/status/1567958387714932736</info>
     </award>
   </awards>
 <!--
